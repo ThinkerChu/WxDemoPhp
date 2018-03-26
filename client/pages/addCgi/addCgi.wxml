@@ -21,11 +21,7 @@
         <button class="copyBtn" wx:if="{{canIUseClipboard}}" bindtap="copyCode" data-code-id="1">复制代码</button>
         <text class="p">2. 点击开发者工具右上角“腾讯云” - “上传测试代码”，勾选“智能上传”</text>
         <text class="p">3. 点击测试 CGI 按钮，即可看到结果</text>
-    </view>
-
-    <view class="testupdete">
-      <text class="headline">测试修改上传到github</text>
-
+        <text class="p">4. 20180326 modify</text>
     </view>
 
 </view>

@@ -6,7 +6,7 @@ class Demo extends CI_Controller {
         $this->json([
             'code' => 0,
             'data' => [
-                'msg' => 'Hello World'
+                'msg' => 'Good Night'
             ]
         ]);
     }
