@@ -23,4 +23,9 @@
         <text class="p">3. 点击测试 CGI 按钮，即可看到结果</text>
     </view>
 
+    <view class="testupdete">
+      <text class="headline">测试修改上传到github</text>
+
+    </view>
+
 </view>
